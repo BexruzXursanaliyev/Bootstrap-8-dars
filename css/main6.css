@@ -1,0 +1,10 @@
+.a{
+    color: white;
+    width: 150px;
+    font-size: 100px;
+    background: linear-gradient(45deg, #420142, #e700e7);
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 920px;
+    margin-top: -180px;
+}

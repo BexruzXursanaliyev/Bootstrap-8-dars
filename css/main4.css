@@ -1,0 +1,35 @@
+.a{
+    color: darkcyan;
+}
+.a1{
+    line-height: 1px;
+    margin-top: 10px;
+    margin-left: -80px !important;
+}
+.a2{
+    background-color: rgb(239, 239, 239);
+}
+.a3{
+    background-color: rgb(3, 223, 223);
+}
+.a4{
+    background-color: rgb(0, 45, 45);
+}
+.w{
+    border: 1px solid rgb(3, 223, 223);
+}
+.w2{
+    border: 1px solid rgb(0, 45, 45);
+}
+.q{
+    margin-left: 730px;
+}
+.q2{
+    margin-left: 710px;
+}
+.q3{
+    margin-left: 740px;
+}
+.q4{
+    margin-left: 680px;
+}
